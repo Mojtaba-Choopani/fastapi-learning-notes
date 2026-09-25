@@ -1,3 +1,4 @@
+# FastAPI Quick Guide
 # Introduction
 
 In software development, building a project is not only about writing
@@ -61,11 +62,6 @@ modern application architecture and how FastAPI helps build scalable
 APIs and backend services.
 
 ------------------------------------------------------------------------
-
-# FastAPI Learning Guide
-
-A practical overview of the most important FastAPI concepts, patterns,
-and features.
 
 ## 1. Path and Query Parameters
 
